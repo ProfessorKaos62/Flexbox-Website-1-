@@ -160,6 +160,8 @@ ul {
 
 .author {
     display: flex;
+    justify-content: flex-end;
+    width: 100%;
     font-size: 18px;
     font-weight: 600;
 }
